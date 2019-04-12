@@ -19,7 +19,7 @@ Requies internet Connection to work.
 
 ## Author
 
-* **Ziang Hong** - *Initial work* - [cs12sp19ic](mailto:zhong@ucsd.edu)
+* **Ziang Hong** - *Initial work* - (mailto:hzawilliam@gmail.com)
 
 
 ## Acknowledgments
